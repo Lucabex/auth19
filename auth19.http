@@ -1,0 +1,6 @@
+@auth19_HostAddress = http://localhost:5038
+
+GET {{auth19_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
